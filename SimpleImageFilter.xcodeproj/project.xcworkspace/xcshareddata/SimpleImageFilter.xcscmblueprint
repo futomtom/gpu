@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0A10A05FA17EF4CD5DD9E00FF750F0422B9488CE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0A10A05FA17EF4CD5DD9E00FF750F0422B9488CE" : 9223372036854775807,
+    "5058F0650E605FA4EF0C3C5DC3DC2ECE16D4D8DB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "293964E4-0F24-4C59-903D-6657B3EA3587",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0A10A05FA17EF4CD5DD9E00FF750F0422B9488CE" : "GPUImage2\/",
+    "5058F0650E605FA4EF0C3C5DC3DC2ECE16D4D8DB" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SimpleImageFilter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "examples\/iOS\/SimpleImageFilter\/SimpleImageFilter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BradLarson\/GPUImage2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A10A05FA17EF4CD5DD9E00FF750F0422B9488CE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/futomtom\/futomtom.github.io",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5058F0650E605FA4EF0C3C5DC3DC2ECE16D4D8DB"
+    }
+  ]
+}
